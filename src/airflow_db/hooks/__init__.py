@@ -1,0 +1,3 @@
+# To support:
+# - MySQL
+# - SQLite
